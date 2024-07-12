@@ -6,6 +6,7 @@ A front-end web development project that replicates the user interface and basic
 ## 📋 Project Overview
 
 This project aims to recreate the visual aesthetics of the popular streaming platform, Netflix, focusing on the front-end aspects. It demonstrates proficiency in 
+
 HTML and CSS to build responsive, visually appealing web pages that mimic the look and feel of Netflix.
 
 ## 🌟 Features
